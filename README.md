@@ -23,7 +23,7 @@
 </p>
 
 
-## Table of Contents
+## Table of Index
 
 <!--ts-->
 * [Aims and Objectives](#Aims-and-Objectives)
